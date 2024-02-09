@@ -5,7 +5,6 @@
 
 <b>Demo Video URL :https://drive.google.com/file/d/1Nlrc_KM9Ed9POH-7pauok_m4hyyVe5Xc/view?usp=drive_link<br>
 <b>Github Repository URL :</b> https://github.com/ganu367/task-managament-react-python <br>
-<h2>For Backend,Python FastAPI Webframework used.</h2>
 
 <h2>Screenshots</h2>
 
