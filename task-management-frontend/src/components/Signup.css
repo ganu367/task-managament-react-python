@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  body {
+    background: white;
+  }
+  :root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --black: #000000;
+    --gray: #838e95;
+    --font-color: #869ab8;
+    --btn-color: #313232;
+    --text-color: #333;
+    --border-btn: 0.1rem;
+    --btn-margin: 0.5rem;
+    --btn-padding: 0.5rem;
+    --h2: 1.5rem;
+    --button-click-blue: rgb(53, 147, 241);
+    --insta-color: #e1306c;
+    --twitter-color: #00acee;
+    --facebook-color: #3b5998;
+  }
+  
+  /* utility */
+  /* .sub-head {
+    color: var(--black);
+    font-size: 1.18rem;
+    margin: 0.7rem 0.5rem;
+    text-align: left;
+  }
+  
+  .sub-para {
+    color: var(--font-color);
+    padding: 0.5rem 0.515rem;
+    font-size: 1.111rem;
+    font-family: sans-serif;
+    text-align: left;
+  } */
+  
+  /* .btn {
+    text-decoration: none;
+    border: 0.1rem solid var(--btn-color);
+    border-radius: 0.3rem;
+    color: var(--btn-color);
+    padding: 0.5rem 1.19rem;
+    margin: 0.4rem 0.4rem;
+    align-items: center;
+  } */
+  
+  h1 {
+    color: var(--black);
+    font-size: 2.3rem;
+    margin: 0.7rem 1.5rem;
+  }
+  
+  /* login-form goes from here */
+  .main_div {
+    width: 45vw;
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    margin: 6.5rem auto;
+  }
+  .main_div .title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: var(--blue);
+  }
+  
+  .main_div .hidden {
+    display: none;
+  }
+  .main_div #success-message {
+    background-color: green;
+    color: white;
+    transition: opacity 5s ease-in-out;
+    padding: 0.5rem;
+    margin: 0.5rem 0rem;
+  }
+  .main_div #error-message {
+    background-color: red;
+    color: white;
+    transition: opacity 5s ease-in-out;
+    padding: 0.5rem;
+    margin: 0.5rem 0rem;
+  }
+  .main_div .show-message {
+    opacity: 1;
+    display: block;
+  }
+  form {
+    margin-top: 25px;
+  }
+  form .input_box {
+    height: 50px;
+    width: 100%;
+    position: relative;
+    margin-top: 2rem;
+  }
+  
+  form .input_box input {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    font-size: 17px;
+    transition: all 0.3s ease;
+    margin-top: 0.4rem;
+  }
+  form .input_box label {
+    font-size: 0.8rem;
+    color: #333;
+  }
+  form .input_box input:focus {
+    border-color: #c8e8e9;
+  }
+  form .input_box .icon {
+    position: absolute;
+    top: 105%;
+    right: 19px;
+    transform: translateY(-50%);
+    color: grey;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  form .input_box #hide-pass-icon,
+  #hide-re-pass-icon {
+    display: none;
+  }
+  
+  form .login_div {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.4rem;
+    padding: 0.2rem 0rem;
+  }
+  form .login_div a {
+    color: hwb(225 0% 0%);
+  }
+  
+  form .btn-submit {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    margin-top: 1.4rem;
+  }
+  form .btn-submit button {
+    background: var(--blue);
+    color: #fff;
+    border: none;
+    width: 100%;
+    padding: 0.9rem 6.9rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    text-align: center;
+    margin: 1.5rem 0rem;
+  }
+  
+  form .btn-submit button:hover {
+    /* background: #c8e8e9; */
+    background: var(--button-click-blue);
+  }
+  
