@@ -1,4 +1,4 @@
-<h1>Task Managament using python,Ract.js -Project</h1>
+<h1>Task Management using python,Ract.js -Project</h1>
 
 <br>
 <h2>Project Details</h2>
