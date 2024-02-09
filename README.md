@@ -57,7 +57,7 @@ React.js ,python and npmshould be installed on your machine. </p>
 <p align="justify">python -m venv task-web-env</p>
 
 <h3>Activate venv</h3>
-<p align="justify"> ..\task-web-env\ScriptsActivate</p>
+<p align="justify"> ..\task-web-env\Scripts\Activate</p>
 
 <h2>Install dependencies:</h2>
 <p align="justify">pip install -r requirements.txt</p>
