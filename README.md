@@ -11,20 +11,20 @@
 
 <h3>Add Task</h3>
 
-<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/add%20task.png" alt="azure-app-service"></img><br>
+<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/add%20task.png" alt="add task"></img><br>
 
 <h3>Edit Task</h3>
 
-<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/edit%20task.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/edit%20task.png" alt="edit task"></img><br>
 
 <h3>All Task</h3>
 
-<img src="https://github.com/pratik3155/TextAnalyzer/blob/main/Screenshots/translator-db%20-%20Microsoft%20Azure%20-%20Google%20Chrome%2018-12-2023%2021_08_37.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/all_task.png" alt="All Task"></img><br>
 
 <h3>Validation</h3>
-<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/empty_error.png" alt="final-project-demo"></img>
+<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/empty_error.png" alt="Validation"></img>
 <h3>Sign up</h3>
-<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/sign_up.png" alt="final-project-demo"></img>
+<img src="https://raw.githubusercontent.com/ganu367/task-managament-react-python/main/screenshots/sign_up.png" alt="Sign Up"></img>
 
 
 <h2>Getting Started</h2>
